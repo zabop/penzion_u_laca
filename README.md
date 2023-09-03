@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38ba69e5-3045-4ce8-9bb4-a2e2ea71de5e/deploy-status)](https://app.netlify.com/sites/nimble-alfajores-23e202/deploys)
